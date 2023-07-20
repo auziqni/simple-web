@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Deskripsi Proyek
 
-## Getting Started
+asd
 
-First, run the development server:
+## Fitur Utama
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- Search API wikipedia
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Simple Search
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- LightWeight
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## penggunaan
 
-## Learn More
+asd
 
-To learn more about Next.js, take a look at the following resources:
+## Contoh kode atau perintah di sini
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+asd
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Desclaimer
 
-## Deploy on Vercel
+Proyek ini tidak sepenuhnya merupakan karya saya. Saya menggunakan proyek yang sudah ada sebagai referensi dan inspirasi untuk membangun proyek ini. Semua hak cipta dan kepemilikan intelektual terkait karya tersebut tetap melekat pada pemilik aslinya.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 💌 Get in touch
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Personal Website: [https://www.auziqni.com](https://www.auziqni.com)
+- Linkedin: [@Auziqni](https://www.linkedin.com/in/auziqni)
+- Instagram : [@auzini]([Instagram](https://www.instagram.com/mauziq)
