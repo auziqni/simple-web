@@ -75,6 +75,26 @@ npm i next-mdx-remote
 npm i highlight.js rehype-highlight rehype-slug rehype-autolink-headings
 ```
 
+### Sharp
+
+installation
+
+```tsx
+npm i sharp
+```
+
+### Sitemap
+
+installation
+
+```tsx
+npm i sharp
+```
+
+
+
+
+
 ## Desclaimer
 
 Ini adalah proyek yang membantu saya unutk belajar, proyek ini tidak sepenuhnya merupakan karya saya. Saya menggunakan proyek yang sudah ada sebagai referensi dan inspirasi untuk membangun proyek ini. Semua hak cipta dan kepemilikan intelektual terkait karya tersebut tetap melekat pada pemilik aslinya.
@@ -86,3 +106,4 @@ kunjungi : https://www.youtube.com/watch?v=843nec-IvW0&t=11935s
 - Personal Website: [https://www.auziqni.com](https://www.auziqni.com)
 - Linkedin: [@Auziqni](https://www.linkedin.com/in/auziqni)
 - Instagram : [@auziqni]([Instagram](https://www.instagram.com/mauziqni)
+- 

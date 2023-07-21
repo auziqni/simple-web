@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: http://localhot:3000
+
+# Sitemaps
+Sitemap: http://localhot:3000/sitemap.xml

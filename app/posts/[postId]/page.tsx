@@ -12,15 +12,15 @@ type Props = {
   };
 };
 
-// export async function generateStaticParams() {
-//   const posts = await getPostsMeta();
+export async function generateStaticParams() {
+  const posts = await getPostsMeta();
 
-//   if (!posts) return []
+  if (!posts) return [];
 
-//   return posts.map((post) => ({
-//     postId: post.id,
-//   }));
-// }
+  return posts.map((post) => ({
+    postId: post.id,
+  }));
+}
 
 export async function generateMetadata({ params: { postId } }: Props) {
   const post = await getPostByName(`${postId}.mdx`); //deduped!
