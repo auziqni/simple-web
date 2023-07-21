@@ -1,8 +1,8 @@
-
-
 ## Deskripsi Proyek
 
+visit : [simple-blog.auziqni.com](https://simple-blog.auziqni.com/) 
 
+sdf
 
 ## Fitur Utama
 
@@ -58,8 +58,6 @@ import { FaYoutube, FaTwitter, FaGithub, FaLaptop } from "react-icons/fa"
             <FaYoutube />
           </Link>
 ```
-
-
 
 ### next mdx remote
 
